@@ -411,11 +411,12 @@ int main() {
 
 ```
 ## OUTPUT:
-## Encryption:
-![Screenshot (476)](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/f0e13493-4309-4086-9ed7-88cacaadf333)
+![Screenshot (479)](https://github.com/ilaya27464/Vigenere_cipher/assets/127576283/ec2631d8-7e0e-4037-b8c6-97c15599cf69)
 
 ## Decryption:
-![Screenshot (477)](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/b4c335dc-6eec-49cc-84e2-39011147c7db)
+![Screenshot (478)](https://github.com/ilaya27464/Vigenere_cipher/assets/127576283/27257cdc-563c-411c-9c20-7d72d1572fd0)
+
+
 
 ## RESULT:
 The program is executed successfully
