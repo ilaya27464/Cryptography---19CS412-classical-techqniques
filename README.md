@@ -68,7 +68,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-03-05 at 13 56 04](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/37348707-d828-4a6f-84e4-ae7aa6d4fbe1)
+![Screenshot 2024-03-17 123635](https://github.com/ilaya27464/Cryptography---19CS412-classical-techqniques/assets/127576283/e2fb5242-d8f2-4429-81df-b9eec9db95a4)
+
 
 
 ## RESULT:
@@ -218,7 +219,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-03-05 at 14 13 06](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/aa7edd16-6709-44ce-a42e-8b6b93031ee2)
+![Screenshot 2024-03-17 123619](https://github.com/ilaya27464/Cryptography---19CS412-classical-techqniques/assets/127576283/fb9db546-988c-485e-99e4-bdcab3d04781)
+
 
 ## RESULT:
 The program is executed successfully
@@ -297,7 +299,8 @@ int main()
 
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-03-05 at 13 57 16 (1)](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/c8a6afaa-8965-4940-ba24-53f5c1a317a9)
+![Screenshot 2024-03-17 123559](https://github.com/ilaya27464/Cryptography---19CS412-classical-techqniques/assets/127576283/a2a7ddfe-03da-4a51-be07-1927f11cb845)
+
 
 ## RESULT:
 The program is executed successfully
@@ -566,7 +569,8 @@ int main() {
 ```
 ## OUTPUT:
 ## Encryption:
-![WhatsApp Image 2024-03-05 at 13 57 16](https://github.com/ashmistalin/Vigenere_Cipher/assets/103128410/5e689e64-8cd3-420e-a543-06796abb2816)
+![Screenshot 2024-03-17 123526](https://github.com/ilaya27464/Cryptography---19CS412-classical-techqniques/assets/127576283/380734af-b7dc-42a4-857e-6339bee08140)
+
 
 
 ## RESULT:
